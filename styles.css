@@ -1,0 +1,23 @@
+.blue {
+    background: blue;
+    color: white;
+}
+
+.green {
+    color: green;
+}
+
+.st-img {
+    border:1px #41ad43 solid;
+}
+
+.tabel {
+    background-color: #8888;
+     cellspacing="3" cellpadding="10";
+    border=1px #41ad43 solid;
+ }
+
+.tabel td {
+    color: #7d910d;
+    text-align: center;
+}
