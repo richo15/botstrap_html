@@ -29,5 +29,8 @@ body {
     background-image: url(/img/jp-banner-jumbotron.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
+}
 
+#ico-logox {
+    margin: 0 10px 0 0;
 }
