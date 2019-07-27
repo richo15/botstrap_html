@@ -1,3 +1,6 @@
+body {
+   padding-top: 3.5rem;
+}
 .blue {
     background: blue;
     color: white;
@@ -20,4 +23,11 @@
 .tabel td {
     color: #7d910d;
     text-align: center;
+}
+
+.jumbotron {
+    background-image: url(/img/jp-banner-jumbotron.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
 }
