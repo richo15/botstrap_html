@@ -34,3 +34,8 @@ body {
 #ico-logox {
     margin: 0 10px 0 0;
 }
+
+.footer {
+    background: #2d0404;
+    height: 60px;
+}
